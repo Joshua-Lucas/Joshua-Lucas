@@ -1,4 +1,4 @@
-![Banner Image of Me](https://github.com/Joshua-Lucas/Joshua-Lucas/IMG_1061.jpeg)
+![Banner Image of Me](IMG_1061.jpeg)
 
 ### Hi there 👋
 
