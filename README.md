@@ -1,4 +1,4 @@
-![Banner Image of Me](IMG_1061.jpeg)
+![Banner Image of Me](me.jpeg)
 
 ### Hi there 👋
 
