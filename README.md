@@ -1,3 +1,5 @@
+![Banner Image of Me](https://github.com/Joshua-Lucas/Joshua-Lucas/IMG_1061.jpeg)
+
 ### Hi there 👋
 
 I am a self-taught Full Stack developer who is passionate about developing intuitive, responsive software with the user in mind. I am always up for solving a problem, a hard worker, honest, and a loyal team player. I am a quick learner, perpetually seeking to sharpen my skills and grow in my knowledge of software development.
