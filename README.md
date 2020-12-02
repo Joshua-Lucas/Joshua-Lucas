@@ -6,8 +6,8 @@ When I am not at my computer, you can find me enjoying the outdoors with my wife
 
 ### Github Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Joshua-Lucas)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Lucas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Joshua-Lucas&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Lucas&layout=compact&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Banner Image of Me](me.jpeg)
