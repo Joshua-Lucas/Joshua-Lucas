@@ -17,6 +17,7 @@ Lately, I’ve been leading my team's move into **agentic workflows**. The space
 ### 📚 Currently Reading
 
 *   [**100 Go Mistakes and How to Avoid Them**](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
+*   [**Writing An Interpreter In Go**](https://interpreterbook.com/)
 *   [**Hypermedia Systems**](https://hypermedia.systems/)
 
 --- 
